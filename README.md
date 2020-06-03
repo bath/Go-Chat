@@ -7,4 +7,5 @@ Link: https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websoc
 
 ###### Technologies
 Vue JS & HTML5 Frontend  
-Go Backend with websockets
+Go Backend with websockets  
+[Gravatar](https://en.gravatar.com/) for user pictures
