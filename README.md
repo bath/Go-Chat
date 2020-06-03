@@ -10,3 +10,9 @@ Tutorial Repo: https://github.com/scotch-io/go-realtime-chat
 Vue JS & HTML5 Frontend  
 Go Backend with websockets  
 [Gravatar](https://en.gravatar.com/) for user pictures
+
+##### Local Use
+1. Clone Repo
+2. cd Go-Chat/src
+3. `go get github.com/gorilla/websocket`
+4. `go run main.go`
