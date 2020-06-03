@@ -1,5 +1,5 @@
 # Go-Chat
-Realtime Chat Server made with Go and Websockets.
+*Realtime Chat Server made with Go and Websockets.*
 
 Learning Go through following an online tutorial to create a chat webserver.
 
