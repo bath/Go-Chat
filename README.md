@@ -11,7 +11,7 @@ Vue JS & HTML5 Frontend
 Go Backend with websockets  
 [Gravatar](https://en.gravatar.com/) for user pictures
 
-##### Local Use
+###### Local Use
 1. Clone Repo
 2. cd Go-Chat/src
 3. `go get github.com/gorilla/websocket`
